@@ -1,2 +1,4 @@
 #!/bin/bash 
 docker run -it --rm pipp37/mqtt-client_pub_sub sub  $*
+
+
